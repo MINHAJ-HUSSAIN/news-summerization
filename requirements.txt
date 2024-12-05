@@ -1,0 +1,6 @@
+streamlit
+newspaper3k
+requests
+langchain
+faiss-cpu
+sentence-transformers
